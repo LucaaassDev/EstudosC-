@@ -12,3 +12,4 @@ C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Deb
 C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\Semana1 - Sintáxe Básica.pdb
 C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\Semana1 - Sintáxe Básica.genruntimeconfig.cache
 C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\ref\Semana1 - Sintáxe Básica.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\Semana1 - Sintáxe Básica.sourcelink.json
