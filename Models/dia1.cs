@@ -31,4 +31,4 @@ public class Dia2
         Console.WriteLine($"Idade: {idade}");
     }
 }
-}
+} 
