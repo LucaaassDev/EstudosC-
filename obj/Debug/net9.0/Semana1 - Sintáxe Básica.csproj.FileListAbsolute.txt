@@ -1,0 +1,14 @@
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\bin\Debug\net9.0\Semana1 - Sintáxe Básica.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\bin\Debug\net9.0\Semana1 - Sintáxe Básica.deps.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\bin\Debug\net9.0\Semana1 - Sintáxe Básica.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\bin\Debug\net9.0\Semana1 - Sintáxe Básica.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\bin\Debug\net9.0\Semana1 - Sintáxe Básica.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\Semana1 - Sintáxe Básica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\Semana1 - Sintáxe Básica.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\Semana1 - Sintáxe Básica.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\Semana1 - Sintáxe Básica.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\Semana1 - Sintáxe Básica.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\refint\Semana1 - Sintáxe Básica.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\Semana1 - Sintáxe Básica.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\Semana1 - Sintáxe Básica.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\c#\Semana1 - Sintáxe Básica\obj\Debug\net9.0\ref\Semana1 - Sintáxe Básica.dll
