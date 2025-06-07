@@ -2,7 +2,7 @@ using System;
 
 namespace Exercicios
 {
-    public class Dia1
+    public class Dia
 {
     public void ExibirMensagem()
     {
@@ -12,7 +12,7 @@ namespace Exercicios
     }
 }
 
-public class Dia2
+public class Dia1
 {
     public void ExibirInfo()
     {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Semana1 - Sintáxe Básica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b992ab086f5fdc509549300246be28a10fc574e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+825b7d2b922fd082f29e1e0f64aa80db219ec30c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Semana1 - Sintáxe Básica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Semana1 - Sintáxe Básica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

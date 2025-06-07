@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace Exercicios2
 {
-    public class Dia3
+    public class Dia2
     {
         public void OperadoresMatematica()
         {
